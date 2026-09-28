@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Ol%C3%A1,%20eu%20sou%20o%20Dnnis!&fontSize=40&fontColor=FF6D00&fontFamily=Space+Grotesk&animation=fadeIn&fontAlignY=35" width="100%"/>
-
 <a href="https://github.com/Browmano">
-  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&size=22&pause=1000&color=FF6D00&background=00000000&center=true&vCenter=true&width=600&lines=Estudante+de+Programa%C3%A7%C3%A3o+%F0%9F%92%BB;Aprendendo+na+pr%C3%A1tica%2C+um+projeto+por+vez;Constru%C3%AD+o+MeuTreino+%2F+UltronFit+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1200&color=FF6D00&background=000000&center=true&vCenter=true&width=750&height=140&lines=%24+whoami;%3E+Denis+Oliveira;E+a%C3%AD+pessoal%2C+prazer!+%F0%9F%91%8B;Migrando+para+a+programa%C3%A7%C3%A3o+%F0%9F%9A%80;Constru%C3%AD+o+MeuTreino+%2F+UltronFit+%F0%9F%92%AA" alt="Typing SVG" />
 </a>
 
 </div>
