@@ -1,7 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Denis%20Oliveira&fontSize=55&fontColor=FF6D00&fontFamily=monospace&desc=estudante%20de%20programa%C3%A7%C3%A3o&descSize=20&descAlignY=75&animation=fadeIn" width="100%"/>
+
 <a href="https://github.com/Browmano">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1200&color=FF6D00&background=000000&center=true&vCenter=true&width=750&height=140&lines=%24+whoami;%3E+Denis+Oliveira;E+a%C3%AD+pessoal%2C+prazer!+%F0%9F%91%8B;Migrando+para+a+programa%C3%A7%C3%A3o+%F0%9F%9A%80;Constru%C3%AD+o+MeuTreino+%2F+UltronFit+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1200&color=FF6D00&background=00000000&center=true&vCenter=true&width=750&lines=E+a%C3%AD+pessoal%2C+prazer!+%F0%9F%91%8B;Migrando+para+a+programa%C3%A7%C3%A3o+%F0%9F%9A%80;Constru%C3%AD+o+MeuTreino+%2F+UltronFit+%F0%9F%92%AA" alt="Typing SVG" />
 </a>
 
 </div>
@@ -106,4 +108,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=footer" width="100%"/>
