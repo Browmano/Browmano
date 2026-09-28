@@ -18,11 +18,11 @@
 
 <div align="center">
 
-### `✦ um pouco sobre mim ✦`
+### `🤖 Um pouco de mim 🤖`
 
 </div>
 
-<img align="right" width="270" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0d0d0d&text=%3C%2F%3E&fontColor=FF6D00&fontSize=80&fontAlignY=55&stroke=FF6D00&strokeWidth=1" />
+<br>
 
 Estou **migrando pra área de tecnologia**, estudando programação e aprendendo lógica de programação na prática.
 
@@ -32,13 +32,11 @@ Meu projeto principal até agora é o **MeuTreino / UltronFit**, um SaaS complet
 
 Sou curioso por natureza: gosto de aprender construindo, testando e ajustando, sempre com um projeto novo na cabeça.
 
-<br clear="right"/>
-
 ---
 
 <div align="center">
 
-## `♡ TECNOLOGIAS`
+## `🤖 Linguagens`
 
 <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,git,github&theme=dark" />
 
@@ -54,7 +52,7 @@ Sou curioso por natureza: gosto de aprender construindo, testando e ajustando, s
 
 <div align="center">
 
-## `⚙ ferramentas que fazem parte do meu dia`
+## `🔧 Ferramentas do meu dia a dia`
 
 <br>
 
@@ -206,7 +204,7 @@ Projeto prático feito estudando pela Rocketseat.
 
 <div align="center">
 
-## `⌁ vamos conversar?`
+## `⌁ Bora bater um papo?`
 
 <br>
 
@@ -220,7 +218,7 @@ Projeto prático feito estudando pela Rocketseat.
 
 <br><br>
 
-<sub>Migrando para dev • Aprendendo na prática • Construindo projetos reais</sub>
+**Migrando para dev • Aprendendo na prática • Construindo projetos reais**
 
 </div>
 
@@ -230,6 +228,6 @@ Projeto prático feito estudando pela Rocketseat.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF6D00,50:1a1207,100:0d0d0d&section=footer" width="100%" />
 
-<sub>Feito com código, curiosidade e um pouco de laranja. 🔶</sub>
+<sub>Feito através de códigos, muita curiosidade e prática 💻</sub>
 
 </div>
